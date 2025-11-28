@@ -37,8 +37,8 @@ To connect computers in multiple networks using Open Shortest Path First (OSPF) 
 ## 🗺️ NETWORK DIAGRAM
 *(Insert diagram or screenshot from Packet Tracer)*
 
----
-<img width="919" height="378" alt="image" src="https://github.com/user-attachments/assets/ca993ef1-ac39-413a-a79b-bd26f9cc0615" />
+---<img width="919" height="378" alt="image" src="https://github.com/user-attachments/assets/97eea269-8a1d-46e1-8e01-e68f2c902628" />
+
 
 
 ## 🧭 PROCEDURE
@@ -81,7 +81,7 @@ Router# write memory
 ```
 ### Router1 (Chennai)
 ```bash
-Router> enable
+RRouter> enable
 Router# configure terminal
 Router(config)# interface FastEthernet0/0
 Router(config-if)# ip address 192.168.3.1 255.255.255.0
@@ -110,7 +110,8 @@ Router1# show ip route
 ```
 ## 📤 OUTPUT
 ---
-<img width="841" height="1013" alt="image" src="https://github.com/user-attachments/assets/54e37780-24ab-404b-bcdf-566a194afcb9" />
+
+<img width="1109" height="766" alt="image" src="https://github.com/user-attachments/assets/807998d9-739c-4e8b-a3d5-d2ea95f34115" />
 
 
 
